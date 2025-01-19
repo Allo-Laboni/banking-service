@@ -8,7 +8,7 @@ public class BankingServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BankingServiceApplication.class, args);
-		System.out.println("banking domain.");
+		System.out.println("banking domain");
 	}
 
 }
